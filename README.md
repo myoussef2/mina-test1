@@ -1,2 +1,1 @@
-mina-test1
-==========
+Mina Test 1
